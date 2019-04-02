@@ -4,6 +4,11 @@
 h1{
 	text-align: center;
 }
+.pos{
+	position: relative;
+	top: 0 px;
+	right: 0 px;
+}
 
 .row{
 	width: 100%;
