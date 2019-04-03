@@ -1,13 +1,19 @@
 *{
 	box-sizing: border-box;
 }
+
+body{
+	background-color: white;
+}
+
 h1{
 	text-align: center;
 }
+
 .pos{
 	position: relative;
-	top: 0 px;
-	right: 0 px;
+	top: 0;
+	left: 0;
 }
 
 .row{
